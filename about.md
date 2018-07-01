@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hadoop SRE at XiaoMi.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Online storage about Hbase/HDFS, zookeeper, kerberos... etc.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wshuaihua@gmail.com](mailto:wshuaihua@gmail.com)
