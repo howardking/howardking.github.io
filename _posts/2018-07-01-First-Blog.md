@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: single
+date:   2018-07-01 16:16:01 +0800
 title: Blog Instructions
 ---
 ### All new life
