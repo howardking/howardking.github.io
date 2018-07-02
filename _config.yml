@@ -103,11 +103,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Shuaihua Wang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Focus on SRE."
+  location         : "Beijing, China"
+  email            : "wshuaihua@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -116,7 +116,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/howardking"
   gitlab           :
   google_plus      :
   keybase          :
